@@ -4,7 +4,8 @@ This repo is a fork from the [Angular.io Tutorial](https://angular.io/start). Th
 
 ## Main Adjustments
 
-* typescript: 3.3
+<!-- * typescript: 3.3 -->
+* TypeScript >=3.1.1 and <3.2.0
 * zone.js: .10.1
 * tsconfig comes from app not outside app.
 
